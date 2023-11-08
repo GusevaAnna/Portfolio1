@@ -14,3 +14,7 @@ BI-аналитик
 **Навыки и инструменты**
 
 Python, Pandas, Yandex Datalens
+
+
+     
+
