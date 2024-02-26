@@ -10,4 +10,6 @@
 | [5. Исследование данных онкологических отчетов](https://datalens.yandex.ru/zk8u30xxnzqco-issledovanie-dannyh-onkologicheskih-otchetov-guseva-an) | Разработать удобный и полезный дашборд DataLens для медицинских работников. |Python, Pandas, DataLens|
 | [6. Автоматизация сбора информации, обработчик файлов](https://github.com/GusevaAnna/Works/tree/main/6) | Универсальный обработчик, который будет обрабатывать файлы без участия человека и сохранять обработанный результат в том или ином виде. |Python, Pandas|
 | [7. Анализ продаж автомобилей в Казахстане за 2019 год](https://github.com/GusevaAnna/Works/tree/main/7) | Предобработка данных, исследовательский анализ данных, анализ рынка автомобилей Казахстана. |Python, Pandas, Matplotlib, Seaborn, Numpy, Datalens|
+| [8. Телеграмм канал Кинопоиска](https://github.com/GusevaAnna/Works/tree/main/8) | Задачи проекта Провести качественный анализ телеграм-канала Кинопоиска и сформировать предложения по вирусным механикам привлечения новых подписчиков |Python, Pandas, Matplotlib, Seaborn, Numpy, Power Bi|
+| [9. Анализ рынка вакансий для HR Агентства](https://github.com/GusevaAnna/Works/tree/main/9) | Выявить признаки вакансий, привлекающих наибольшее внимание кандидатов и успешно закрывающихся силами агентства |Python, Pandas, Matplotlib, Seaborn, Numpy, Scipy|
 
