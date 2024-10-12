@@ -13,5 +13,5 @@
 | [7. Анализ продаж автомобилей в Казахстане за 2019 год](https://github.com/GusevaAnna/Works/tree/main/7) | Предобработка данных, исследовательский анализ данных, анализ рынка автомобилей Казахстана. |Python, Pandas, Matplotlib, Seaborn, Numpy, Datalens|
 | [8. Телеграмм канал Кинопоиска](https://github.com/GusevaAnna/Works/tree/main/8) | Задачи проекта Провести качественный анализ телеграм-канала Кинопоиска и сформировать предложения по вирусным механикам привлечения новых подписчиков |Python, Pandas, Matplotlib, Seaborn, Numpy, Power Bi|
 | [9. Анализ рынка вакансий для HR Агентства](https://github.com/GusevaAnna/Works/tree/main/9) | Выявить признаки вакансий, привлекающих наибольшее внимание кандидатов и успешно закрывающихся силами агентства |Python, Pandas, Matplotlib, Seaborn, Numpy, Scipy|
-| [10. Анализ ДТП](https://github.com/GusevaAnna/Projects/tree/main/10) | Провести исследовательский анализ данных о ДТП |Python, Pandas, Matplotlib, Seaborn, Numpy, Scipy, Power Bi|
+| [10. Анализ ДТП](https://github.com/GusevaAnna/Projects/tree/main/10) | Провести исследовательский анализ данных о ДТП, выдвинуть и проверить гипотезы |Python, Pandas, Matplotlib, Seaborn, Numpy, Scipy, Power Bi|
 | [11. Баги интернет-магазина "ВкуссВилл"]() | Провести исследовательский анализ данных, собрать и показать метрики |Python, Pandas, Matplotlib, Seaborn, Numpy,|
