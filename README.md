@@ -19,3 +19,4 @@
 | [13. Драйвер Рост ](https://github.com/GusevaAnna/Projects/tree/main/13) | Обработка данных и визуализация результатов анализа характеристик ТОС Белгородского района |Python, Pandas, Matplotlib, Seaborn, Numpy |
 | [14. Рейтинг баеров за сентябрь.](https://github.com/GusevaAnna/Projects/tree/main/14) | Определить какие сотрудники работают наиболее эффективно |Python, Pandas, Matplotlib, Seaborn, Numpy |
 | [15. Анализ продаж по категориям.](https://github.com/GusevaAnna/Projects/tree/main/15) | Определить категорию с наибольшим количеством продаж, топ-5 клиентов по общей сумме покупок |Python, Pandas, Matplotlib, Excel |
+| [15. Анализ динамики продаж аптечных товаров.](https://github.com/GusevaAnna/Projects/tree/main/16) | Исследовать изменения в объемах продаж |Python, Pandas, Matplotlib, Numpy |
